@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp", "SampleApp\SampleApp.csproj", "{377CEF49-EA75-412C-9EEA-05259D99E818}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avalonia.DataBinding", "Avalonia.DataBinding\Avalonia.DataBinding.csproj", "{FE483FD6-34D1-4F5F-A4F0-E271F6F190D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avalonia.DataBinding.Test", "Avalonia.DataBinding.Test\Avalonia.DataBinding.Test.csproj", "{D0D8A866-B1E0-4ECD-BBBA-FF0892E11086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{377CEF49-EA75-412C-9EEA-05259D99E818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377CEF49-EA75-412C-9EEA-05259D99E818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377CEF49-EA75-412C-9EEA-05259D99E818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377CEF49-EA75-412C-9EEA-05259D99E818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE483FD6-34D1-4F5F-A4F0-E271F6F190D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE483FD6-34D1-4F5F-A4F0-E271F6F190D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE483FD6-34D1-4F5F-A4F0-E271F6F190D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE483FD6-34D1-4F5F-A4F0-E271F6F190D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D8A866-B1E0-4ECD-BBBA-FF0892E11086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D8A866-B1E0-4ECD-BBBA-FF0892E11086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D8A866-B1E0-4ECD-BBBA-FF0892E11086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D8A866-B1E0-4ECD-BBBA-FF0892E11086}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
